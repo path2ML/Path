@@ -3,7 +3,7 @@
 This is my Path or Curriculum for "Learn Machine Learning in 3 Months"
 
 # Month 1
-**Status : <span style="color:blue">In-Progress</span>**
+**Status : <span style="color:blue;">In-Progress</span>**
 
 ## Week 1 Linear Algebra
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
