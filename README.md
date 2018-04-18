@@ -50,6 +50,9 @@ https://github.com/llSourcell?tab=repositories
 
 
 **Legend for Status**
+
 **Status : <span style="color:gray">Not Started</span>**
+
 **Status : <span style="color:blue">In-Progress</span>**
+
 **Status : <span style="color:green">Completed</span>**
